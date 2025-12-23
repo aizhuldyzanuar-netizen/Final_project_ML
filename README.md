@@ -6,6 +6,7 @@ This project demonstrates the implementation of machine learning algorithms from
 
 **Project Participants:**
 - Айжулдыз
+- Жанерке
 
 **Data Source:**
 Instax sales transaction dataset (instax_sales_transaction_data.csv)
